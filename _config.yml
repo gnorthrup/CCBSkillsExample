@@ -22,8 +22,7 @@ title: Example Website
 email: gnorthrup@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the description of your new website! You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  line in _config.yml
 #baseurl: "" # the subpath of your site, e.g. /blog COMMENT THIS OUT
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: graham_northrup
@@ -31,6 +30,7 @@ github_username:  gnorthrup
 
 # Build settings
 theme: minima
+#theme: minimal-mistakes-jekyll #for changing the theme
 plugins:
   - jekyll-feed
 
