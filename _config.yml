@@ -31,7 +31,6 @@ github_username:  gnorthrup
 
 # Build settings
 theme: minima
-#theme: jekyll-athena
 plugins:
   - jekyll-feed
 
