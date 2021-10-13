@@ -6,4 +6,4 @@ layout: page
 title: Homepage
 ---
 
-I made a website! This text shows up on the landing page for your site. The theme takes care of the header and footer, but you can also add links in your text to things like [maybe a CV](/exampleCV.pdf)
+I made a website! This text shows up on the landing page for your site. The theme takes care of the header and footer, but you can also add links in your text to things like [maybe a CV](/files/exampleCV.pdf)
