@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 ---
 
 This is the base Jekyll theme, minima. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

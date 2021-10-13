@@ -1,7 +1,7 @@
 main:
-  - title: "about"
-    url: /about/
-  - title: "research"
-    url: /research/
+  - title: "aboutme"
+    url: /aboutme/
+  - title: "science"
+    url: /science/
   - title: "CV"
     url: "/files/ExampleCV.pdf"
